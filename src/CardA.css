@@ -1,0 +1,39 @@
+
+.card-text{
+    font-size: 14px;
+    opacity: 0.9;
+    word-spacing: 0px;
+    margin-bottom: 7px !important;
+    padding: 10px !important;
+
+}
+.card-img-top{
+    border-radius: 13px !important;
+}
+.qrTitle{
+    font-size: 20px;
+
+}
+.card{
+ border-radius: 19px !important;
+ box-shadow: -2px 2px 22px 0px rgba(108, 106, 106, 0.51);
+ -webkit-box-shadow: -2px 2px 22px 0px rgba(108, 106, 106, 0.51);
+ -moz-box-shadow: -2px 2px 22px 0px rgba(108, 106, 106, 0.51);
+ padding-bottom: 5px;
+ /* From https://css.glass */
+background: rgba(255, 255, 255, 0.60) !important;
+border-radius: 16px !important;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+backdrop-filter: blur(5.5px) !important;
+-webkit-backdrop-filter: blur(5.5px) !important;
+border: 1px solid rgba(255, 255, 255, 0.02) !important;
+
+}
+
+.h5 {
+    font-size: 0.999rem !important;
+}
+.card-text{
+    font-size: 0.8rem !important;
+    opacity: 0.6 !important;
+}

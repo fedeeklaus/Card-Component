@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Outfit', sans-serif !important;
+   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+   background-color: hsl(212, 45%, 89%);
+}
+
+code {
+  font-family: sans-serif, 'Fira Sans',
+    monospace;
+}
